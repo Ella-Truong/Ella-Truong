@@ -6,9 +6,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<div width="100%">
   <!-- Left column: text list -->
-  <div style="flex: 1; padding-right: 20px;">
+  <div align="left" width="70%">
     🌱 Learning new tech and building personal projects<br>
     🤝 Contributing to open-source projects<br>
     🔭 Exploring backend optimizations and database design<br>
@@ -17,7 +17,7 @@
   </div>
 
   <!-- Right column: avatar -->
-  <div style="flex: 0 0 auto;">
+  <div align="right" width="30%">
     <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
          alt="Ella Truong" 
          width="150" height="150" 
