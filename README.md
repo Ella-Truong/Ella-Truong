@@ -6,10 +6,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
-<div width="100%" text-align= "left">
+<div width="100%" text-align= "left" align-items="center">
 
   <!-- Text block -->
-  <div align="left" max-width="70%">
+  <div align="left" width="70%">
     🌱 Learning new tech and building personal projects<br>
     🤝 Contributing to open-source projects<br>
     🔭 Exploring backend optimizations and database design<br>
@@ -18,11 +18,11 @@
   </div>
 
   <!-- Avatar block -->
-  <div>
+  <div align="right" width="30%">
     <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
          alt="Ella Truong" 
-         width="150" height="150" 
-         style="border-radius: 50%;" />
+         width="200" height="200" 
+         border-radius="50%" />
   </div>
 
 </div>
