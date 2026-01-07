@@ -1,6 +1,9 @@
-![Cover](https://github.com/Ella-Truong/Ella-Truong/blob/main/header1.jpg)
+<div align="center">
+  <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/header1.jpg" alt="Cover" />
+  <h2>👋 Hello, I'm Ella Truong</h2>
+  <h3>Aspiring as Full-Stack Web Developer | CS student @CSU Long Beach</h3>
+</div>
 
-## 👋 Hi, I'm Ella Truong
 
 
 
