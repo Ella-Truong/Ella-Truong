@@ -12,7 +12,7 @@
 - 🎧 Love combining technology with music and creative projects
 - 🎯 2026 goals: more projects, more LeetCode, and get internships
 
-## 📫 Connect with me
+## 🌐 Connect with me
 <p align="left">
   <a href="mailto:ellatruong95@gmail.com">
     <img src="https://img.shields.io/badge/Email-✉️-red?style=for-the-badge" alt="Email"/>
@@ -41,6 +41,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40" height="40"/>
 </p>
+
+### 🏗️ Frameworks & Library
+<p>
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <!-- Express.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+  <!-- SQL (generic database icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> SQL&nbsp;&nbsp;
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /> 
+  <!-- Supabase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" /> 
+  <!-- Flask -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
+  <!-- FastAPI (via iconify because Devicon plain supports fastapi) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" /> 
+</p>
+
+
 
 
 
