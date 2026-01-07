@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
-<table align="center" style="border-collapse: collapse; border: none">
+<table align="center" style="border: none; width:70%;">
   <tr>
     <!-- Left column: content as list -->
     <td style="padding: 0; vertical-align: middle;">
