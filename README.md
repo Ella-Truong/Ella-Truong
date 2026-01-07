@@ -12,12 +12,8 @@
 - 🔭 Exploring backend optimizations and database design<br>
 - 🎧 Love combining technology with music and creative projects<br>
 - 🎯 2026 goals: more projects, more LeetCode, and get internships
+
   
-
-![Profile Top Section](https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg)
-
-
-
 ## 🌐 Connect with me
 <p align="left">
   <a href="mailto:ellatruong95@gmail.com">
