@@ -20,9 +20,9 @@
     </td>
     <!-- Right column: circular avatar -->
     <td style="padding: 0 0 0 20px; vertical-align: middle;">
-      <img src="https://github.com/Ella-Truong.png" 
+      <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
            alt="Ella Truong" 
-           width="600" height="600"
+           width="500" height="500"
            style="border-radius: 50%;" />
     </td>
   </tr>
