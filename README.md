@@ -14,7 +14,7 @@
 - 🎯 2026 goals: more projects, more LeetCode, and get internships
 
   
-## 🌐 Connect with me
+# 🌐 Connect with me
 <p align="left">
   <a href="mailto:ellatruong95@gmail.com">
     <img src="https://img.shields.io/badge/Email-✉️-red?style=for-the-badge" alt="Email"/>
@@ -27,15 +27,15 @@
   </a>
 </p>
 
-## 💼 Technologies
-### `Languages`
+# 💼 Technologies
+## `Languages`
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
 </p>
 
-### `Tools`
+## `Tools`
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" />
@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="40" height="40"/>
 </p>
 
-### `Frameworks & Library`
+## `Frameworks & Libraries`
 <p>
   <!-- Tailwind CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
