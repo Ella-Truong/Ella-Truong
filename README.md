@@ -6,27 +6,27 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
-<table align="center" border="0" width="100%">
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <!-- Left column: content as list -->
-    <td style="padding: 0; vertical-align: left; width:70%;">
-      <ul style="margin: 0; padding: 0 10px 0 0; list-style-type: none;">
-        <li>🌱 Learning new tech and building personal projects</li>
-        <li>🤝 Contributing to open-source projects</li>
-        <li>🔭 Exploring backend optimizations and database design</li>
-        <li>🎧 Love combining technology with music and creative projects</li>
-        <li>🎯 2026 goals: more projects, more LeetCode, and get internships</li>
-      </ul>
+    <!-- Left column: list -->
+    <td width="70%" valign="middle" align="left" style="padding:0; margin:0;">
+      🌱 Learning new tech and building personal projects<br>
+      🤝 Contributing to open-source projects<br>
+      🔭 Exploring backend optimizations and database design<br>
+      🎧 Love combining technology with music and creative projects<br>
+      🎯 2026 goals: more projects, more LeetCode, and get internships
     </td>
+    
     <!-- Right column: circular avatar -->
-    <td style="padding: 0; vertical-align: middle; width:30%;">
+    <td width="30%" valign="middle" align="center" style="padding:0; margin:0;">
       <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
            alt="Ella Truong" 
-           width="380" height="380"
-           style="border-radius: 50%;" />
+           width="150" height="150"
+           style="border-radius:50%;" />
     </td>
   </tr>
 </table>
+
 
 ## 🌐 Connect with me
 <p align="left">
