@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/header1.jpg" alt="Cover" />
   <h2>👋 Hello, I'm Ella Truong</h2>
-  <h3>Aspiring as Full-Stack Web Developer | CS student @CSU Long Beach</h3>
+  <h3>✨ Aspiring as Full-Stack Web Developer | CS student @CSU Long Beach ✨</h3>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
