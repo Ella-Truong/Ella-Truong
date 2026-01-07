@@ -7,23 +7,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
 
-<div width="100%" text-align= "left" align-items="center">
-  <!-- Text block -->
-  <div align="left" width="70%">
-    🌱 Learning new tech and building personal projects<br>
-    🤝 Contributing to open-source projects<br>
-    🔭 Exploring backend optimizations and database design<br>
-    🎧 Love combining technology with music and creative projects<br>
-    🎯 2026 goals: more projects, more LeetCode, and get internships
-  </div>
-  <!-- Avatar block -->
-  <div align="right" width="30%">
-    <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
-         alt="Ella Truong" 
-         width="200" height="200" 
-         border-radius="50%" />
-  </div>
-</div>
+- 🌱 Learning new tech and building personal projects<br>
+- 🤝 Contributing to open-source projects<br>
+- 🔭 Exploring backend optimizations and database design<br>
+- 🎧 Love combining technology with music and creative projects<br>
+- 🎯 2026 goals: more projects, more LeetCode, and get internships
+
+![Profile Top Section](https://github.com/Ella-Truong/Ella-Truong/blob/main/assets/profile-top.png)
+
 
 
 ## 🌐 Connect with me
