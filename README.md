@@ -6,12 +6,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
-<table align="center" style="border-collapse: collapse;">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
+<table align="left" style="border-collapse: collapse; border: none">
   <tr>
     <!-- Left column: content as list -->
     <td style="padding: 0; vertical-align: middle;">
-      <ul>
+      <ul style="margin: 0; padding: 0 10px 0 0; list-style-type: none;">
         <li>🌱 Learning new tech and building personal projects</li>
         <li>🤝 Contributing to open-source projects</li>
         <li>🔭 Exploring backend optimizations and database design</li>
