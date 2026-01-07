@@ -26,15 +26,14 @@
 </p>
 
 ## 🛠️ Technologies
-- Languages
-<p align="left">
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
+### Languages
+<!-- JavaScript -->
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =40x40)
+<!-- Python -->
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =40x40)
+<!-- C++ -->
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg =40x40)
+
 
 
 
