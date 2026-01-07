@@ -8,23 +8,25 @@
 
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <!-- Left column: list -->
-    <td width="70%" valign="middle" align="left" style="padding:0; margin:0;">
+    <!-- Left column: content as plain text -->
+    <td width="70%" valign="middle" style="padding:0; margin:0; text-align:left;">
       🌱 Learning new tech and building personal projects<br>
       🤝 Contributing to open-source projects<br>
       🔭 Exploring backend optimizations and database design<br>
       🎧 Love combining technology with music and creative projects<br>
       🎯 2026 goals: more projects, more LeetCode, and get internships
     </td>
+
     <!-- Right column: circular avatar -->
-    <td width="30%" valign="middle" align="center" style="padding:0; margin:0;">
-      <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
+    <td width="30%" valign="middle" style="padding:0; margin:0; text-align:center;">
+      <img src="https://github.com/Ella-Truong/Ella-Truong/raw/main/githubavar.jpg" 
            alt="Ella Truong" 
            width="150" height="150"
            style="border-radius:50%;" />
     </td>
   </tr>
 </table>
+
 
 
 ## 🌐 Connect with me
