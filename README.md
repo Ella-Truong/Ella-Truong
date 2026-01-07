@@ -4,7 +4,7 @@
   <h3>Aspiring as Full-Stack Web Developer | CS student @CSU Long Beach</h3>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
 
 
