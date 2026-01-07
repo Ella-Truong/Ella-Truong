@@ -16,7 +16,6 @@
       🎧 Love combining technology with music and creative projects<br>
       🎯 2026 goals: more projects, more LeetCode, and get internships
     </td>
-    
     <!-- Right column: circular avatar -->
     <td width="30%" valign="middle" align="center" style="padding:0; margin:0;">
       <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
