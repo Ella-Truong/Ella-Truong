@@ -6,26 +6,25 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <!-- Left column: content as plain text -->
-    <td width="70%" valign="middle" style="padding:0; margin:0; text-align:left;">
-      🌱 Learning new tech and building personal projects<br>
-      🤝 Contributing to open-source projects<br>
-      🔭 Exploring backend optimizations and database design<br>
-      🎧 Love combining technology with music and creative projects<br>
-      🎯 2026 goals: more projects, more LeetCode, and get internships
-    </td>
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <!-- Left column: text list -->
+  <div style="flex: 1; padding-right: 20px;">
+    🌱 Learning new tech and building personal projects<br>
+    🤝 Contributing to open-source projects<br>
+    🔭 Exploring backend optimizations and database design<br>
+    🎧 Love combining technology with music and creative projects<br>
+    🎯 2026 goals: more projects, more LeetCode, and get internships
+  </div>
 
-    <!-- Right column: circular avatar -->
-    <td width="30%" valign="middle" style="padding:0; margin:0; text-align:center;">
-      <img src="https://github.com/Ella-Truong/Ella-Truong/raw/main/githubavar.jpg" 
-           alt="Ella Truong" 
-           width="150" height="150"
-           style="border-radius:50%;" />
-    </td>
-  </tr>
-</table>
+  <!-- Right column: avatar -->
+  <div style="flex: 0 0 auto;">
+    <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
+         alt="Ella Truong" 
+         width="150" height="150" 
+         style="border-radius: 50%;" />
+  </div>
+</div>
+
 
 
 
