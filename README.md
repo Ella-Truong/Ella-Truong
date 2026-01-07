@@ -14,7 +14,7 @@
 - 🎯 2026 goals: more projects, more LeetCode, and get internships
   
 
-![Profile Top Section](https://github.com/Ella-Truong/Ella-Truong/blob/main/assets/profile-top.png)
+![Profile Top Section](https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg)
 
 
 
