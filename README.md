@@ -13,17 +13,18 @@
 - 🎯 2026 goals: more projects, more LeetCode, and get internships
 
 ## 📫 Connect with me
-<p align="center">
+<p align="left">
   <a href="mailto:ellatruong95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-✉️-red?style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/ellatruong/">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-🔗-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://ellatruong.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
+
 
 
   
