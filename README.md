@@ -1,3 +1,7 @@
+![Cover](https://github.com/Ella-Truong/Ella-Truong/blob/main/header1.jpg)
+
+## 👋 Hi, I'm Ella Truong
+
 
 
 <!--
