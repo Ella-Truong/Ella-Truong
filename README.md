@@ -19,7 +19,7 @@
       </ul>
     </td>
     <!-- Right column: circular avatar -->
-    <td style="padding: 0 0 0 20px; vertical-align: middle;">
+    <td style="padding: 0; vertical-align: middle;">
       <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
            alt="Ella Truong" 
            width="300" height="300"
