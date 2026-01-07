@@ -9,7 +9,7 @@
 <table align="center" style="border: none; width:100%;">
   <tr>
     <!-- Left column: content as list -->
-    <td style="padding: 0; vertical-align: middle;">
+    <td style="padding: 0; vertical-align: left; width:70%">
       <ul style="margin: 0; padding: 0 10px 0 0; list-style-type: none;">
         <li>🌱 Learning new tech and building personal projects</li>
         <li>🤝 Contributing to open-source projects</li>
@@ -19,7 +19,7 @@
       </ul>
     </td>
     <!-- Right column: circular avatar -->
-    <td style="padding: 0; vertical-align: middle;">
+    <td style="padding: 0; vertical-align: middle; widht:30%">
       <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/githubavar.jpg" 
            alt="Ella Truong" 
            width="300" height="300"
