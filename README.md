@@ -27,12 +27,12 @@
 
 ## 🛠️ Technologies
 ### Languages
-<!-- JavaScript -->
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =40x40)
-<!-- Python -->
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =40x40)
-<!-- C++ -->
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg =40x40)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+</p>
+
 
 
 
