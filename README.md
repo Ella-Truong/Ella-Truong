@@ -6,10 +6,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
-<div style="width: 100%; text-align: center;">
+<div width="100%" text-align= "left">
 
   <!-- Text block -->
-  <div style="display: inline-block; text-align: left; max-width: 70%; margin-bottom: 20px;">
+  <div align="left" max-width="70%">
     🌱 Learning new tech and building personal projects<br>
     🤝 Contributing to open-source projects<br>
     🔭 Exploring backend optimizations and database design<br>
