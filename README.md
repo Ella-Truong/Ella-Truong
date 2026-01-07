@@ -6,6 +6,27 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
 
+- 🌱 Learning new tech and building personal projects
+- 🤝 Contributing to open-source projects
+- 🔭 Exploring backend optimizations and database design
+- 🎧 Love combining technology with music and creative projects
+- 🎯 2026 goals: more projects, more LeetCode, and get internships
+
+## 📫 Connect with me
+<p align="center">
+  <a href="mailto:ellatruong95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ellatruong/">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://ellatruong.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+
+  
 
 
 
