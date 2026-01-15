@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/ellatruong/">
     <img src="https://img.shields.io/badge/LinkedIn-🔗-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://ellatruong.dev">
+  <a href="https://https://ella-truong.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
