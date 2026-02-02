@@ -11,7 +11,7 @@
 - 🤝 Contributing to open-source projects<br>
 - 🔭 Exploring backend optimizations and database design<br>
 - 🎧 Love combining technology with music and creative projects<br>
-- 🎯 2026 goals: more projects, more LeetCode, and get internships
+- 🎯 2026 goals: more projects, more LeetCode 
 
   
 # 🌐 Connect with me
