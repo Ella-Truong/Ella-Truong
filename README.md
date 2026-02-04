@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/Ella-Truong/Ella-Truong/blob/main/header.gif" alt="Cover" />
-  <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> Hello, I'm Ella Truong</h1>
+  <h1>👋 Hello, I'm Ella Truong</h1>
   <h3>✨ Aspiring as 💻 Full-Stack Web Developer  |  🎓 CS student @ CSU Long Beach ✨</h3>
 </div>
 
