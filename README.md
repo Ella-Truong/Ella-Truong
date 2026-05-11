@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  ⋆౨ৎ˚⟡˖ 💻 coding • 🫧 scalable systems • 🤖 automation • 🌸 full-stack engineering ˖⟡˚౨ৎ⋆
+  ✨⋆౨ৎ˚⟡˖ 💻 coding • 🫧 scalable systems • 🤖 automation • 🌸 full-stack engineering ˖⟡˚౨ৎ⋆✨
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square" />
