@@ -12,7 +12,7 @@
   ✨ ⋆౨ৎ˚⟡˖ 💻 coding • 🫧 scalable systems • 🤖 automation • 🌸 full-stack engineering ˖⟡˚౨ৎ⋆ ✨
 </h3>
 
-<img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square" />
+<img height="40" src="https://komarev.com/ghpvc/?username=Ella-Truong&style=plastic" />
 
 </div>
 
