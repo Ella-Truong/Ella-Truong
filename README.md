@@ -1,8 +1,11 @@
 <div align="center">
 
 <h1 align="center">
-  👋 Hello, I'm 
-  <font color="#8A2BE2" size="7">Ella Truong</font>
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="45px"
+  />
+  Hello, I'm <font color="#8A2BE2">Ella Truong</font>
 </h1>
 
 <h3>
