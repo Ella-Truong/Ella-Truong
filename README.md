@@ -8,8 +8,8 @@
   Hello, I'm <font color="#8A2BE2">Ella Truong</font>
 </h1>
 
-<h3>
-  💻 Building scalable systems ⚙️, exploring automation 🤖, and growing as a Full-Stack Engineer 🚀
+<h3 align="center">
+  ₊˚⊹ 💻 Building scalable systems ⚙️ • exploring automation 🤖 • growing as a Full-Stack Engineer 🚀 ⊹˚₊
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square" />
