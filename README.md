@@ -28,7 +28,7 @@
 
 ---
 
-## 💌 connect with me
+## 💬 let's connect
 
 <p align="left">
   <a href="mailto:ellatruong95@gmail.com">
