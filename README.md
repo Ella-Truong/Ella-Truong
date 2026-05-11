@@ -28,7 +28,7 @@
 
 ---
 
-## 🌐 connect with me
+## 💌 connect with me
 
 <p align="left">
   <a href="mailto:ellatruong95@gmail.com">
@@ -46,9 +46,9 @@
 
 ---
 
-## ⚙️ technologies
+## ⚙️ Technologies
 
-### 💻 languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
@@ -61,7 +61,7 @@
 
 ---
 
-### 🛠️ tools
+### 🛠️ Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
@@ -77,7 +77,7 @@
 
 ---
 
-### 🧩 frameworks & libraries
+### 🧩 Frameworks & Libraries
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🧠 current focus
+## 🧠 Current focuses
 
 - Full-Stack Engineering
 - Backend Architecture & APIs
