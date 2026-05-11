@@ -18,7 +18,7 @@
 
 ---
 
-# 🌱 About Me
+## ✨ About Me
 
 - 🌱 Learning new technologies and building personal projects
 - 🤝 Contributing to open-source projects
@@ -28,7 +28,7 @@
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="mailto:ellatruong95@gmail.com">
@@ -46,9 +46,9 @@
 
 ---
 
-# ⚙️ Technologies
+## ⚙️ Technologies
 
-## 💻 Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
@@ -61,7 +61,7 @@
 
 ---
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
@@ -77,7 +77,7 @@
 
 ---
 
-## 🚀 Frameworks & Libraries
+### 🧩 Frameworks & Libraries
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
@@ -94,7 +94,7 @@
 
 ---
 
-# 🚀 Current Focus
+## 🧠 Current Focus
 
 - Full-Stack Engineering
 - Backend Architecture & APIs
