@@ -5,7 +5,7 @@
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="35px"
   />
-  Hello, I'm <font color="#8A2BE2">Ella Truong</font>
+  hello, i'm <font color="#8A2BE2">ella truong</font>
 </h1>
 
 <h3 align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 about me
 
 - 🌱 Learning new technologies and building personal projects
 - 🤝 Contributing to open-source projects
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 connect with me
 
 <p align="left">
   <a href="mailto:ellatruong95@gmail.com">
@@ -46,9 +46,9 @@
 
 ---
 
-## ⚙️ Technologies
+## ⚙️ technologies
 
-### 💻 Languages
+### 💻 languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
@@ -61,7 +61,7 @@
 
 ---
 
-### 🛠️ Tools
+### 🛠️ tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
@@ -77,7 +77,7 @@
 
 ---
 
-### 🧩 Frameworks & Libraries
+### 🧩 frameworks & libraries
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"/>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🧠 Current Focus
+## 🧠 current focus
 
 - Full-Stack Engineering
 - Backend Architecture & APIs
