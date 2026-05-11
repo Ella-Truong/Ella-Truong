@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>👋 Hello, I'm Ella Truong</h1>
-  <h3>✨ Aspiring as 💻 Full-Stack Web Developer  |  🎓 CS student @ CSU Long Beach ✨</h3>
+  <h1>
+     <span class="wave">👋</span> Hello, I'm Ella Truong
+  </h1>
+  <h3>💻 Building scalable systems ⚙️, exploring automation 🤖, and growing as a Full-Stack Engineer 🚀</h3>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
