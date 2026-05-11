@@ -1,82 +1,108 @@
 <div align="center">
-  <h1>
-     <span class="wave">👋</span> Hello, I'm Ella Truong
-  </h1>
 
-  <style>
-  .wave {
-  display: inline-block;
-  transform-origin: 70% 70%;
-  animation: wave-animation 2s infinite;
-}
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hello, I'm Ella Truong
+</h1>
 
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
-  <h3>💻 Building scalable systems ⚙️, exploring automation 🤖, and growing as a Full-Stack Engineer 🚀</h3>
+<h3>💻 Building scalable systems ⚙️, exploring automation 🤖, and growing as a Full-Stack Engineer 🚀</h3>
+
+<img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square" />
+
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ella-Truong&style=flat)
+---
 
+# 🌱 About Me
 
-- 🌱 Learning new tech and building personal projects<br>
-- 🤝 Contributing to open-source projects<br>
-- 🔭 Exploring backend optimizations and database design<br>
-- 🎧 Love combining technology with music, building creative projects<br>
+- 🌱 Learning new technologies and building personal projects
+- 🤝 Contributing to open-source projects
+- 🔭 Exploring backend optimizations and database design
+- 🎧 Love combining technology with music and creative projects
 - 🎯 2026 goals: squats by day, binary search by night
 
-  
-# 🌐 Connect with me
+---
+
+# 🌐 Connect with Me
+
 <p align="left">
   <a href="mailto:ellatruong95@gmail.com">
     <img src="https://img.shields.io/badge/Email-✉️-red?style=for-the-badge" alt="Email"/>
   </a>
+
   <a href="https://www.linkedin.com/in/ellatruong/">
     <img src="https://img.shields.io/badge/LinkedIn-🔗-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
+
   <a href="https://ella-truong.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
 
+---
+
 # ⚙️ Technologies
-## Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35">
 
-## Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" title="VS Code"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" title="PyCharm"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" title="Figma"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="35" title="Supabase"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="35" title="Vercel"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" width="35" title="Railway"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="35" title="Netlify"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"> 
+## 💻 Languages
 
-## Frameworks & Libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" title="Tailwind"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" title="Next.js"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" title="Express.js"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="SQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35" title="Flask"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" title="FastAPI"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="35" title="NestJS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35">
 
+---
 
+## 🛠️ Tools
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" title="VS Code">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" title="PyCharm">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" title="Figma">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="35" title="Supabase">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="35" title="Vercel">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="35" title="Netlify">
 
+---
 
+## 🚀 Frameworks & Libraries
 
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="35" title="Next.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" title="Express.js">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="35" title="NestJS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35" title="Tailwind CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="MySQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35" title="Flask">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" title="FastAPI">
 
+---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ella-Truong&show_icons=true&theme=tokyonight" />
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ella-Truong&theme=tokyonight" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- Full-Stack Engineering
+- Backend Architecture & APIs
+- System Design Fundamentals
+- Automation Workflows
+- Docker & Cloud Learning
+
+---
 
 <!--
-**Ella-Truong/Ella-Truong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ Special repository README for GitHub profile ✨
 -->
