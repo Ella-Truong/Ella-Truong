@@ -32,15 +32,15 @@
 
 <p align="left">
   <a href="mailto:ellatruong95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-✉️-red?style=plastic" alt="Email"/>
+    <img height="32" src="https://img.shields.io/badge/Email-✉️-red?style=plastic" alt="Email"/>
   </a>
 
   <a href="https://www.linkedin.com/in/ellatruong/">
-    <img src="https://img.shields.io/badge/LinkedIn-🔗-blue?style=plastic" alt="LinkedIn"/>
+    <img height="32" src="https://img.shields.io/badge/LinkedIn-🔗-blue?style=plastic" alt="LinkedIn"/>
   </a>
 
   <a href="https://ella-truong.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-🌐-green?style=plastic" alt="Portfolio"/>
+    <img height="32" src="https://img.shields.io/badge/Portfolio-🌐-green?style=plastic" alt="Portfolio"/>
   </a>
 </p>
 
