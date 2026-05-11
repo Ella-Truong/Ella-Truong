@@ -3,7 +3,7 @@
 <h1 align="center">
   <img
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="45px"
+    width="35px"
   />
   Hello, I'm <font color="#8A2BE2">Ella Truong</font>
 </h1>
