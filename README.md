@@ -9,7 +9,7 @@
 - 🌱 Learning new tech and building personal projects<br>
 - 🤝 Contributing to open-source projects<br>
 - 🔭 Exploring backend optimizations and database design<br>
-- 🎧 Love combining technology with music and creative projects<br>
+- 🎧 Love combining technology with music, building creative projects<br>
 - 🎯 2026 goals: squats by day, binary search by night
 
   
