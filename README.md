@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  ₊˚⊹ 💻 Building scalable systems ⚙️ • exploring automation 🤖 • growing as a Full-Stack Engineer 🚀 ⊹˚₊
+  ₊ ⊹ 💻 scalable systems ⚙️ ・🤖 automation ・🚀 full-stack engineering ⊹ ₊
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square" />
