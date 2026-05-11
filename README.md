@@ -18,7 +18,7 @@
 
 ---
 
-## ₊˚⊹♡ About Me
+## 👩‍💻 About Me
 
 - 🌱 Learning new technologies and building personal projects
 - 🤝 Contributing to open-source projects
