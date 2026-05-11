@@ -2,7 +2,7 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hello, I'm Ella Truong
+  Hello, I'm <span style="color:#8A2BE2;">Ella Truong</span>
 </h1>
 
 <h3>
