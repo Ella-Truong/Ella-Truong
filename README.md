@@ -46,9 +46,9 @@
 
 ---
 
-## ⚙️ Technologies
+## ⚙️ technologies
 
-### 💻 Languages
+### 💻 languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
@@ -61,7 +61,7 @@
 
 ---
 
-### 🛠️ Tools
+### 🛠️ tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="33" title="Git"/>
@@ -77,7 +77,7 @@
 
 ---
 
-### 🧩 Frameworks & Libraries
+### 🧩 frameworks & libraries
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="33" title="React"/>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🧠 Current focuses
+## 🧠 current focuses
 
 - Full-Stack Engineering
 - Backend Architecture & APIs
