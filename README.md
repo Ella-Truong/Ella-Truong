@@ -96,11 +96,11 @@
 
 ## 🧠 current focuses
 
-- Full-Stack Engineering
-- Backend Architecture & APIs
-- System Design Fundamentals
-- Automation Workflows
-- Cloud Learning
+- full-Stack engineering
+- backend architecture & api
+- system sesign fundamentals
+- automation workflows
+- cloud learning
 
 ---
 
