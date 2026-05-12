@@ -22,7 +22,7 @@
 
 - ✨ 70% introvert, 30% random
 - 🌱 powered by coffee and curiosity
-- 🎵 probably listening to music right now
+- 🎧 probably listening to music right now
 
 ---
 
