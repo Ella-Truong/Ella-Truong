@@ -20,9 +20,9 @@
 
 ## 👩‍💻 about me
 
-- ✦ 70% introvert, 30% random
-- ☕ Powered by coffee and curiosity
-- 🎧 Probably listening to music right now
+✨ 70% introvert, 30% random
+🌱 Powered by coffee and curiosity
+🎵 Probably listening to music right now
 
 ---
 
