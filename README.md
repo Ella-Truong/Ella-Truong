@@ -20,11 +20,9 @@
 
 ## 👩‍💻 about me
 
-- 🌱 Learning new technologies and building personal projects
-- 🤝 Contributing to open-source projects
-- 🔭 Exploring backend optimizations and database design
-- 🎧 Love combining technology with music and creative projects
-- 🎯 2026 goals: squats by day, binary search by night
+- ✦ 70% introvert, 30% random
+- ☕ Powered by coffee and curiosity
+- 🎧 Probably listening to music right now
 
 ---
 
