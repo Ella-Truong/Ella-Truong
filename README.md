@@ -22,6 +22,7 @@
 
 - ✨ 70% introvert, 30% random
 - 🌱 powered by coffee and curiosity
+- 🧠 interested in systems, workflows, and human behavior around tech
 - 🎧 probably listening to music right now
 
 ---
