@@ -100,7 +100,7 @@
 - backend architecture & api
 - system design fundamentals
 - automation workflows
-- cloud learning
+
 
 ---
 
