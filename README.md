@@ -19,8 +19,6 @@
 - 🧠 Interested in backend engineering, distributed systems, and automation.
 - 🌱 Always learning, always building.
 
-<br>
-
 ## 🚀 Featured Projects
 
 ### ☕ Have a Sip
@@ -29,19 +27,17 @@ A cozy engineering blog built with **Next.js**, **TypeScript**, **Prisma**, **Po
 
 🔗 *Coming Soon*
 
-<br>
-
 ### 🤖 AI Agent *(Coming Soon)*
 
 Exploring AI-powered workflow automation and modern LLM applications.
 
-<br>
+
 
 ### ☕ DripDrop Coffee
 
 A full-stack coffee ordering platform built with **Next.js** and **Supabase**.
 
-<br>
+
 
 ## 🌱 Currently Exploring
 
@@ -51,7 +47,7 @@ A full-stack coffee ordering platform built with **Next.js** and **Supabase**.
 - 🧩 System Design
 - 📦 CI/CD
 
-<br>
+
 
 ## ⚙️ Tech Stack
 
@@ -121,7 +117,7 @@ A full-stack coffee ordering platform built with **Next.js** and **Supabase**.
 
 </div>
 
-<br>
+
 
 <div align="center">
 
@@ -145,7 +141,7 @@ A full-stack coffee ordering platform built with **Next.js** and **Supabase**.
 
 </div>
 
-<br>
+
 
 <div align="center">
 
