@@ -2,171 +2,149 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello, I'm Ella Truong
 
-### ☕ Building thoughtful software • Scalable systems • Full-Stack Engineering
+### ☕ Brewing thoughtful software, one commit at a time.
 
-*"Learning every day, building with intention."*
+*Full-Stack Engineer • Backend Enthusiast • Lifelong Learner*
 
-<img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=blueviolet"/>
 
 </div>
 
-<br>
+---
 
-## 🌸 About Me
+# ☕ Welcome
+
+I'm a Computer Science student who enjoys building software that's both reliable and meaningful.
+
+I love working across the stack, but I'm especially drawn to backend engineering, scalable architectures, and automation. Outside of coding, you'll probably find me with a cup of coffee, listening to music, or sketching ideas for the next project.
+
+---
+
+# 🌸 About Me
 
 - ☕ Powered by coffee and curiosity
-- 💻 Passionate about full-stack engineering and backend development
-- 🧠 Interested in distributed systems, automation, and developer tools
-- 🌱 Currently exploring AI Agents, AWS, and microservices
+- 💻 Passionate about full-stack engineering
+- 🧠 Interested in backend systems, distributed architecture, and automation
+- 🌱 Always learning something new
 - 🎧 Usually coding with music in the background
 - ✨ 70% introvert, 30% random
 
-<br>
+---
 
-<div align="center">
+# 🍵 What I'm Brewing
 
-## 💌 Let's Connect
+### ☕ Have a Sip
 
-<a href="mailto:ellatruong95@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ellatruong/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ella_Truong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://ella-truong.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+A cozy engineering blog built with **Next.js, TypeScript, Prisma, PostgreSQL, and Playwright**.
 
-</div>
+Writing about software engineering, backend development, and lessons learned while building real projects.
 
 <br>
 
-<div align="center">
+### 🤖 AI Agent *(In Progress)*
 
-# ⚙️ Tech Stack
+Learning modern AI agent frameworks, workflow automation, and LLM-powered applications.
+
+<br>
+
+### ☁️ Currently Learning
+
+- AWS
+- System Design
+- Microservices
+- CI/CD
+
+---
+
+# 🛠️ Brewed With
+
+<div align="center">
 
 ### 💻 Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" title="C++"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/>
 </p>
-
-<br>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" title="Next.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38"/>
 </p>
-
-<br>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" title="Node.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" title="Express.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="38" title="NestJS"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="38" title="Flask"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38"/>
 </p>
-
-<br>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" title="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38" title="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38"/>
 </p>
-
-<br>
 
 ### 🧪 Testing
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="38" title="Playwright"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="38" title="Jest"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="38" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="38"/>
 </p>
-
-<br>
 
 ### ☁️ DevOps & Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" title="Docker"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" title="Linux"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="38" title="Vercel"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="38" title="RabbitMQ"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" title="Figma"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38"/>
 </p>
 
 </div>
 
-<br>
+---
 
-## 🌱 Currently Exploring
-
-- 🤖 AI Agents & LLM Applications
-- ☁️ AWS Cloud
-- 🏗️ Microservices Architecture
-- 📦 CI/CD & DevOps
-- 🧩 System Design
-
-<br>
+# 💌 Say Hello
 
 <div align="center">
 
-## 📊 GitHub Stats
+<a href="mailto:ellatruong95@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ella-Truong&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://www.linkedin.com/in/ellatruong/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ella_Truong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ella-Truong&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Ella-Truong&theme=tokyonight&hide_border=true"/>
+<a href="https://ella-truong.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-> *"Code is more than solving problems—it's about creating experiences that make someone's day a little better."* ☕🌸
+### ☕ Thanks for stopping by!
+
+*"Great software is brewed with curiosity, patience, and countless cups of coffee."*
 
 </div>
