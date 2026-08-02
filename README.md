@@ -1,5 +1,5 @@
 <img
-  src="https://komarev.com/ghpvc/?username=Ella-Truong&style=for-the-badge&color=CDB4DB"
+  src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-round&color=CDB4DB"
   height="22"
 />
 
