@@ -1,7 +1,7 @@
 <h1>
   👩‍💻 Hi, I'm Ella
   <img
-    src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-round&color=CDB4DB"
+    src="https://komarev.com/ghpvc/?username=Ella-Truong&style=plastic&color=CDB4DB"
     height="22"
     align="right"
     style="margin-top: 5px;"
