@@ -9,14 +9,14 @@
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
 
 </div>
-
+---
 <h3>🌸 About</h3>
 
 - 💻 Passionate about building reliable and scalable applications.
 - ☕ Powered by coffee and curiosity.
 - 🧠 Interested in backend engineering, distributed systems, and automation.
 - 🌱 Always learning, always building.
-
+---
 <h3>🌱 Currently Exploring</h3>
 
 - 🤖 AI Agents
@@ -24,7 +24,7 @@
 - 🏗️ Microservices
 - 🧩 System Design
 - 📦 CI/CD
-
+---
 <h3 align="center">⚙️ Tech Stack</h3>
 
 <div align="center">
@@ -94,7 +94,7 @@
 </div>
 
 <div align="center">
-
+---
 <h3>💌 Let's Connect</h3>
 
 <a href="mailto:ellatruong95@gmail.com">
@@ -108,7 +108,7 @@
 <a href="https://ella-truong.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
+---
 <p><i>🌱 Keep learning. Keep building.</i></p>
 
 </div>
