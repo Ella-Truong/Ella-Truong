@@ -1,4 +1,7 @@
-<img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"
+  height="18"
+/>
 
 # 👩‍💻 Hi, I'm Ella
 
