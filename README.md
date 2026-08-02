@@ -1,6 +1,8 @@
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd0YW1sdmFrZmlnbXVyc2U4cmU4bjB6MWtjcXJoaGxnNDExYnp5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WemtkIRyd2JMciY3Zh/giphy.gif" width="180"/>
-</p>
+<img
+  align="right"
+  width="190"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd0YW1sdmFrZmlnbXVyc2U4cmU4bjB6MWtjcXJoaGxnNDExYnp5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WemtkIRyd2JMciY3Zh/giphy.gif"
+/>
 
 # ☕ Hi, I'm Ella
 
@@ -13,6 +15,8 @@ Building thoughtful software with curiosity and coffee.
 > *"Building thoughtful software, one sip at a time."*
 
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
+
+<br clear="right"/>
 
 ---
 
@@ -30,8 +34,9 @@ Building thoughtful software with curiosity and coffee.
 
 ### ⚙️ Tech Stack
 
-<p align="center">
+<div align="center">
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
@@ -47,11 +52,9 @@ Building thoughtful software with curiosity and coffee.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/>
-
 </p>
 
-<p align="center">
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/>
@@ -67,11 +70,9 @@ Building thoughtful software with curiosity and coffee.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-
 </p>
 
-<p align="center">
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30"/>
@@ -87,18 +88,17 @@ Building thoughtful software with curiosity and coffee.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="30"/>
-
 </p>
 
-<p align="center">
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
-
 </p>
+
+</div>
 
 ---
 
