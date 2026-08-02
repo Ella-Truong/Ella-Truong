@@ -1,17 +1,17 @@
-<div align="center">
+# ☕ Hi, I'm Ella
 
-<table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td width="68%" valign="middle">
+<td width="80%" valign="top">
 
-### ☕ Hi, I'm Ella
+<div align="left">
 
-Building software with curiosity, intention, and way too much coffee.
+Building thoughtful software with curiosity and coffee.
 
-🌱 Full-Stack Software Engineer  
-🧠 Backend • System Design • AI  
-☕ Always learning, always building
+🌱 **Full-Stack Software Engineer**
+🧠 **Backend • System Design • AI**
+☕ **Always learning, always building**
 
 <br>
 
@@ -21,31 +21,33 @@ Building software with curiosity, intention, and way too much coffee.
 
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
 
+</div>
+
 </td>
 
-<td width="32%" align="center">
+<td width="20%" valign="top">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd0YW1sdmFrZmlnbXVyc2U4cmU4bjB6MWtjcXJoaGxnNDExYnp5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WemtkIRyd2JMciY3Zh/giphy.gif" width="190"/>
+<div align="right">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd0YW1sdmFrZmlnbXVyc2U4cmU4bjB6MWtjcXJoaGxnNDExYnp5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WemtkIRyd2JMciY3Zh/giphy.gif" width="180"/>
+
+</div>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
 ### 🌱 Currently Exploring
 
 <p>
-
 <img src="https://img.shields.io/badge/AI%20Agents-FFC8DD?style=flat-square"/>
 <img src="https://img.shields.io/badge/AWS-BDE0FE?style=flat-square"/>
 <img src="https://img.shields.io/badge/Microservices-CDB4DB?style=flat-square"/>
 <img src="https://img.shields.io/badge/System%20Design-D8E2DC?style=flat-square"/>
 <img src="https://img.shields.io/badge/CI/CD-FFF1E6?style=flat-square"/>
-
 </p>
 
 ---
@@ -55,65 +57,65 @@ Building software with curiosity, intention, and way too much coffee.
 <div align="center">
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/>
 </p>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="34" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="34" title="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="34" title="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="34" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 </p>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="34" title="Supabase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="34" title="Vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="34" title="Playwright"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="34" title="Jest"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="34" title="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="30"/>
 </p>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="34" title="RabbitMQ"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="34" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
 </p>
 
 </div>
@@ -122,27 +124,14 @@ Building software with curiosity, intention, and way too much coffee.
 
 ### 💌 Let's Connect
 
-<div align="center">
+<p align="center">
+<a href="mailto:ellatruong95@gmail.com"><img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ellatruong/"><img src="https://img.shields.io/badge/LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>&nbsp;&nbsp;
+<a href="https://ella-truong.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-<a href="mailto:ellatruong95@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
 
-&nbsp;
+<i>☕ Keep learning. Keep building.</i>
 
-<a href="https://www.linkedin.com/in/ellatruong/">
-<img src="https://img.shields.io/badge/LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-&nbsp;
-
-<a href="https://ella-truong.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-*☕ Keep learning. Keep building. Keep sipping.*
-
-</div>
-
+</p>
