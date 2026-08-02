@@ -19,24 +19,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### ☕ Have a Sip
-
-A cozy engineering blog built with **Next.js**, **TypeScript**, **Prisma**, **PostgreSQL**, and **Playwright**.
-
-🔗 *Coming Soon*
-
-### 🤖 AI Agent *(Coming Soon)*
-
-Exploring AI-powered workflow automation and modern LLM applications.
-
-### ☕ DripDrop Coffee
-
-A full-stack coffee ordering platform built with **Next.js** and **Supabase**.
-
----
-
 ## 🌱 Currently Exploring
 
 - 🤖 AI Agents
