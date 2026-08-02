@@ -1,25 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm Ella Truong
+<h2>👋 Hi, I'm Ella Truong</h2>
 
-### ☕ Building thoughtful software with curiosity and coffee
+<p>☕ Building thoughtful software with curiosity and coffee</p>
 
-*Full-Stack Engineer • Backend Enthusiast • Lifelong Learner*
+<p><i>Full-Stack Engineer • Backend Enthusiast • Lifelong Learner</i></p>
 
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
 
 </div>
 
-## 🌸 About
+<h3>🌸 About</h3>
 
 - 💻 Passionate about building reliable and scalable applications.
 - ☕ Powered by coffee and curiosity.
 - 🧠 Interested in backend engineering, distributed systems, and automation.
 - 🌱 Always learning, always building.
 
----
-
-## 🌱 Currently Exploring
+<h3>🌱 Currently Exploring</h3>
 
 - 🤖 AI Agents
 - ☁️ AWS
@@ -27,9 +25,7 @@
 - 🧩 System Design
 - 📦 CI/CD
 
----
-
-## ⚙️ Tech Stack
+<h3 align="center">⚙️ Tech Stack</h3>
 
 <div align="center">
 
@@ -42,20 +38,34 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" title="C++"/>
 &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" title="HTML5"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" title="CSS3"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" title="Next.js"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" title="Tailwind CSS"/>
 </p>
 
 <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" title="Express.js"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="32" title="NestJS"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32" title="Flask"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" title="FastAPI"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" title="Tailwind CSS"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" title="MySQL"/>
-&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="32" title="Supabase"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" title="Docker"/>
@@ -67,22 +77,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32" title="Vercel"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="32" title="Playwright"/>
-</p>
-
-<p>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="32" title="Jest"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="32" title="Postman"/>
-&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="32" title="RabbitMQ"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32" title="Flask"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" title="FastAPI"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" title="Express"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="32" title="NestJS"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" title="Figma"/>
 &nbsp;&nbsp;&nbsp;
@@ -91,11 +93,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-## 💌 Let's Connect
+<h3>💌 Let's Connect</h3>
 
 <a href="mailto:ellatruong95@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -109,10 +109,6 @@
 <img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
-
-<div align="center">
-
-### 🌱 Keep learning. Keep building.
+<p><i>🌱 Keep learning. Keep building.</i></p>
 
 </div>
