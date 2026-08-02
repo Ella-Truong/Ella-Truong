@@ -13,8 +13,9 @@ Building thoughtful software with curiosity and coffee.
 - 🌱 Full-Stack Software Engineer  
 - 🧠 Backend • System Design • AI 
 - 📚 Still learning, Still building
-<br/>
+
 > *"Building thoughtful software, one sip at a time."*
+
 <br/>
 
 🔍 **Currently Exploring**
