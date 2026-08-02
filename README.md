@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
 # ☕ Hi, I'm Ella
 
 <img
@@ -25,8 +26,6 @@ Building thoughtful software with curiosity and coffee.
 </p>
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
 
 <br clear="right"/>
 
