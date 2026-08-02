@@ -1,13 +1,15 @@
 <table>
 <tr>
 
-<td width="65%">
+<td width="65%" valign="top">
 
-## 👋 Hi, I'm Ella
+<h2>👋 Hi, I'm Ella Truong</h2>
 
-☕ Building thoughtful software with curiosity and coffee.
+<p>☕ Building thoughtful software with curiosity and coffee.</p>
 
-**Full-Stack Engineer** • **Backend** • **System Design**
+<p>
+<i>Full-Stack Engineer • Backend Enthusiast • System Design</i>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
 
@@ -15,7 +17,7 @@
 
 <td width="35%" align="center">
 
-<img src="YOUR_GIF_HERE" width="220"/>
+<img src="YOUR_GIF_URL_HERE" width="220"/>
 
 </td>
 
@@ -24,34 +26,26 @@
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🌸 About
 
-- 💻 Building reliable and scalable applications
-- ☕ Powered by coffee and curiosity
-- 🧠 Interested in backend engineering
-- 🌱 Always learning something new
+- 💻 Building reliable and scalable software.
+- ☕ Coffee-powered engineer.
+- 🧠 Curious about backend engineering, systems, and automation.
+- 🌱 Always learning.
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🌱 Currently Exploring
 
-- 🤖 AI Agents
-- ☁️ AWS
-- 🏗️ Microservices
-- 🧩 System Design
-- 📦 CI/CD
+<p>
 
-</td>
+<img src="https://img.shields.io/badge/AI%20Agents-FFC8DD?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-BDE0FE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microservices-CDB4DB?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-D8E2DC?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI/CD-FFF1E6?style=flat-square"/>
 
-</tr>
-</table>
+</p>
 
 ---
 
@@ -59,7 +53,67 @@
 
 <div align="center">
 
-<!-- icons -->
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34"/>
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34"/>
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" width="34"/>
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="34"/>
+</p>
 
 </div>
 
