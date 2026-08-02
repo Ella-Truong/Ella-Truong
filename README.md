@@ -24,11 +24,11 @@ Building thoughtful software with curiosity and coffee.
 🔍 **Currently Exploring**
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Agents-FFC8DD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AWS-BDE0FE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Microservices-CDB4DB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System%20Design-D8E2DC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CI/CD-FFF1E6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-FFC8DD?style=flat-round"/>
+  <img src="https://img.shields.io/badge/AWS-BDE0FE?style=flat-round"/>
+  <img src="https://img.shields.io/badge/Microservices-CDB4DB?style=flat-round"/>
+  <img src="https://img.shields.io/badge/System%20Design-D8E2DC?style=flat-round"/>
+  <img src="https://img.shields.io/badge/CI/CD-FFF1E6?style=flat-round"/>
 </p>
 
 ## 🧰 Technologies
