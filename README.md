@@ -7,7 +7,7 @@
 
 <img
   align="right"
-  width="300"
+  width="260"
   src="https://raw.githubusercontent.com/Ella-Truong/Ella-Truong/main/geek-girl.gif"
 />
 
