@@ -1,6 +1,6 @@
 <img
-  src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"
-  height="18"
+  src="https://komarev.com/ghpvc/?username=Ella-Truong&style=for-the-badge&color=CDB4DB"
+  height="22"
 />
 
 # 👩‍💻 Hi, I'm Ella
