@@ -8,23 +8,37 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
 
+✦ ✦ ✦
+
 </div>
----
-<h3>🌸 About</h3>
+
+<h3 align="center">🌸 About</h3>
 
 - 💻 Passionate about building reliable and scalable applications.
 - ☕ Powered by coffee and curiosity.
 - 🧠 Interested in backend engineering, distributed systems, and automation.
 - 🌱 Always learning, always building.
----
-<h3>🌱 Currently Exploring</h3>
+
+<div align="center">
+
+✦ ✦ ✦
+
+</div>
+
+<h3 align="center">🌱 Currently Exploring</h3>
 
 - 🤖 AI Agents
 - ☁️ AWS
 - 🏗️ Microservices
 - 🧩 System Design
 - 📦 CI/CD
----
+
+<div align="center">
+
+✦ ✦ ✦
+
+</div>
+
 <h3 align="center">⚙️ Tech Stack</h3>
 
 <div align="center">
@@ -94,21 +108,25 @@
 </div>
 
 <div align="center">
----
+
+✦ ✦ ✦
+
 <h3>💌 Let's Connect</h3>
 
 <a href="mailto:ellatruong95@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ellatruong/">
-<img src="https://img.shields.io/badge/LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 &nbsp;
 <a href="https://ella-truong.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
----
-<p><i>🌱 Keep learning. Keep building.</i></p>
+
+<br><br>
+
+<i>🌱 Keep learning. Keep building.</i>
 
 </div>
