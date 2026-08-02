@@ -18,7 +18,7 @@ Building thoughtful software with curiosity and coffee.
 > *"Building thoughtful software, one sip at a time."*
 
 
-🌱 **Currently Exploring**
+🔍 **Currently Exploring**
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Agents-FFC8DD?style=flat-square"/>
