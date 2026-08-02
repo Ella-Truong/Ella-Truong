@@ -4,7 +4,7 @@
     src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-round&color=CDB4DB"
     height="22"
     align="right"
-    style="margin-top: 10px;"
+    style="margin-top: 5px;"
     alt="Profile views"
   />
 </h1>
