@@ -14,8 +14,6 @@ Building thoughtful software with curiosity and coffee.
 
 > *"Building thoughtful software, one sip at a time."*
 
-<img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
-
 ---
 
 ### 🌱 Currently Exploring
