@@ -8,11 +8,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=Ella-Truong&style=flat-square&color=CDB4DB"/>
 
-✦ ✦ ✦
+</div>
+
+<div align="center">
+
+✦ ⋆ ✿ ⋆ ✦
 
 </div>
 
-<h3 align="center">🌸 About</h3>
+### 🌸 About
 
 - 💻 Passionate about building reliable and scalable applications.
 - ☕ Powered by coffee and curiosity.
@@ -21,11 +25,11 @@
 
 <div align="center">
 
-✦ ✦ ✦
+✦ ⋆ ✿ ⋆ ✦
 
 </div>
 
-<h3 align="center">🌱 Currently Exploring</h3>
+### 🌱 Currently Exploring
 
 - 🤖 AI Agents
 - ☁️ AWS
@@ -35,11 +39,11 @@
 
 <div align="center">
 
-✦ ✦ ✦
+✦ ⋆ ✿ ⋆ ✦
 
 </div>
 
-<h3 align="center">⚙️ Tech Stack</h3>
+### ⚙️ Tech Stack
 
 <div align="center">
 
@@ -109,9 +113,13 @@
 
 <div align="center">
 
-✦ ✦ ✦
+✦ ⋆ ✿ ⋆ ✦
 
-<h3>💌 Let's Connect</h3>
+</div>
+
+### 💌 Let's Connect
+
+<div align="center">
 
 <a href="mailto:ellatruong95@gmail.com">
   <img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=white"/>
