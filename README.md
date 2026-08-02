@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="80%" valign="top">
 
 <h2>👋 Hi, I'm Ella Truong</h2>
 
@@ -15,7 +15,7 @@
 
 </td>
 
-<td width="35%" align="center">
+<td width="20%" align="center">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd0YW1sdmFrZmlnbXVyc2U4cmU4bjB6MWtjcXJoaGxnNDExYnp5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WemtkIRyd2JMciY3Zh/giphy.gif" width="220"/>
 
