@@ -58,6 +58,6 @@ Building thoughtful software with curiosity and coffee.
 </p>
 
 <p align="center">
-<i>☕ Keep learning. Keep building.</i>
+<i>🌵 Keep learning. Keep building 🌵</i>
 </p>
 
