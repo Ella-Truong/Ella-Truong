@@ -18,7 +18,6 @@
 Building thoughtful software with curiosity and coffee.
 
 - 💻 Full-Stack Software Engineer
-- 🧠 Backend, System Design & AI
 - 🎧 Music while coding, coffee enthusiast
 - 🌱 Lifelong learner
 - ✍️ Writing about engineering
