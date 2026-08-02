@@ -8,7 +8,7 @@
 <img
   align="right"
   width="300"
-  src="https://raw.githubusercontent.com/Ella-Truong/Ella-Truong/main/github.gif"
+  src="https://raw.githubusercontent.com/Ella-Truong/Ella-Truong/main/geek-girl.gif"
 />
 
 Building thoughtful software with curiosity and coffee.
