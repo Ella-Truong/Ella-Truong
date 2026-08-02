@@ -1,5 +1,5 @@
 <h1>
-  👩‍💻 Hi, I'm Ella
+  👩‍💻 Hi, I'm 𝓔𝓵𝓵𝓪
   <img
     src="https://komarev.com/ghpvc/?username=Ella-Truong&style=plastic&color=CDB4DB"
     height="22"
