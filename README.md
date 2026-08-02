@@ -40,15 +40,15 @@ Building thoughtful software with curiosity and coffee.
 
 <p align="center">
   <a href="mailto:ellatruong95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFC8DD?style=plastic&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FFC8DD?style=plastic&logo=gmail&logoColor=white" height="22"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ellatruong/">
-    <img src="https://img.shields.io/badge/LinkedIn-BDE0FE?style=plastic&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-BDE0FE?style=plastic&logo=linkedin&logoColor=0A66C2" height="22"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://ella-truong.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=plastic&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=plastic&logo=vercel&logoColor=white"height="22"/>
   </a>
 </p>
 
