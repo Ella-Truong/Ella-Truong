@@ -11,7 +11,7 @@
 
 <img
   align="right"
-  width="300"
+  width="350"
   src="https://raw.githubusercontent.com/Ella-Truong/Ella-Truong/main/using-computer-monitors.gif"
 />
 
