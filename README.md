@@ -11,7 +11,7 @@
 
 <img
   align="right"
-  width="350"
+  width="320"
   src="https://raw.githubusercontent.com/Ella-Truong/Ella-Truong/main/hitopotato-typing.gif"
 />
 
