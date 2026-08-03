@@ -12,7 +12,7 @@
 <img
   align="right"
   width="260"
-  src="https://raw.githubusercontent.com/Ella-Truong/Ella-Truong/main/cutepig.gif"
+  src="https://raw.githubusercontent.com/Ella-Truong/Ella-Truong/main/using-computer-monitors.gif"
 />
 
 Building thoughtful software with curiosity and coffee.
