@@ -24,6 +24,7 @@ Building thoughtful software with curiosity and coffee.
 
 > *"Building thoughtful software, one sip at a time."*
 
+🌐 **Have a Sip:** https://www.haveasip.tech
 <br>
 
 🔍 **Currently Exploring**
