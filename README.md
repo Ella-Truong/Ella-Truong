@@ -11,11 +11,6 @@
 <p><em>Building thoughtful software with curiosity and coffee.</em></p>
 
 <p>
-  Computer Science student passionate about building full-stack applications,
-  designing reliable backend systems, and learning how technology works beneath the surface.
-</p>
-
-<p>
   💻 Full-Stack Development &nbsp; • &nbsp;
   ☕ Coffee & Music &nbsp; • &nbsp;
   🌱 Lifelong Learner &nbsp; • &nbsp;
@@ -55,7 +50,4 @@
   </a>
 </p>
 
-<p align="center">
-<i>🌵 Still learning. Still building 🌵</i>
-</p>
 
