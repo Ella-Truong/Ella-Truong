@@ -9,20 +9,12 @@
   />
 </h1>
 
-<img
-  align="right"
-  width="320"
-  src="https://raw.githubusercontent.com/Ella-Truong/Ella-Truong/main/hitopotato-typing.gif"
-/>
-
 Building thoughtful software with curiosity and coffee.
 
 - 💻 Full-Stack Software Engineer
 - 🎧 Music while coding, coffee enthusiast
 - 🌱 Lifelong learner
 - ✍️ Writing about engineering
-
-> *"Building thoughtful software, one sip at a time."*
 
 <br>
 
