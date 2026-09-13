@@ -18,7 +18,7 @@
 <p>
   💻 Full-Stack Development &nbsp; • &nbsp;
   ☕ Coffee & Music &nbsp; • &nbsp;
-  🌱 Always Learning &nbsp; • &nbsp;
+  🌱 Lifelong Learner &nbsp; • &nbsp;
   ✍️ Engineering Notes
 </p>
 
