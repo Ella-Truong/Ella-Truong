@@ -1,30 +1,35 @@
-<h1>
-  👩‍💻 Hi, I'm 𝐄𝐥𝐥𝐚
-  <img
-    src="https://komarev.com/ghpvc/?username=Ella-Truong&style=plastic&color=CDB4DB"
-    height="22"
-    align="right"
-    style="vertical-bottom: bottom;"
-    alt="Profile views"
-  />
-</h1>
+<div align="center">
 
-Building thoughtful software with curiosity and coffee.
+<h1>👩‍💻 Hi, I'm 𝐄𝐥𝐥𝐚</h1>
 
-- 💻 Full-Stack Software Engineer
-- 🎧 Music while coding, coffee enthusiast
-- 🌱 Lifelong learner
-- ✍️ Writing about engineering
+<img
+  src="https://komarev.com/ghpvc/?username=Ella-Truong&style=plastic&color=CDB4DB"
+  height="22"
+  alt="Profile views"
+/>
+
+<p>Building thoughtful software with curiosity and coffee.</p>
+
+<p>
+  💻 Full-Stack Software Engineer<br>
+  🎧 Music while coding, coffee enthusiast<br>
+  🌱 Lifelong learner<br>
+  ✍️ Writing about engineering
+</p>
 
 <br>
 
-🔍 **Currently Exploring**
+<h3>🔍 Currently Exploring</h3>
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Agents-FFC8DD?style=flat-round"/>
   <img src="https://img.shields.io/badge/AWS-BDE0FE?style=flat-round"/>
   <img src="https://img.shields.io/badge/System%20Design-D8E2DC?style=flat-round"/>
 </p>
+
+</div>
+
+<br>
 
 ## 🤖 Technologies
 
