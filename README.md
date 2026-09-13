@@ -24,7 +24,7 @@
 
 <br>
 
-<h3>🔍 Currently Exploring</h3>
+<h4>🔍 Currently Exploring</h4>
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Agents-FFC8DD?style=flat-round"/>
