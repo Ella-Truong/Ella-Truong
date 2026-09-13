@@ -8,13 +8,18 @@
   alt="Profile views"
 />
 
-<p>Building thoughtful software with curiosity and coffee.</p>
+<p><em>Building thoughtful software with curiosity and coffee.</em></p>
 
 <p>
-  💻 Full-Stack Software Engineer<br>
-  🎧 Music while coding, coffee enthusiast<br>
-  🌱 Lifelong learner<br>
-  ✍️ Writing about engineering
+  Computer Science student passionate about building full-stack applications,
+  designing reliable backend systems, and learning how technology works beneath the surface.
+</p>
+
+<p>
+  💻 Full-Stack Development &nbsp; • &nbsp;
+  ☕ Coffee & Music &nbsp; • &nbsp;
+  🌱 Always Learning &nbsp; • &nbsp;
+  ✍️ Engineering Notes
 </p>
 
 <br>
@@ -28,8 +33,6 @@
 </p>
 
 </div>
-
-<br>
 
 ## 🤖 Technologies
 
