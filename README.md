@@ -19,10 +19,6 @@
 
 <br>
 
-<h4>🔍 Currently Exploring</h4>
-
-<p>AI Agents • AWS • System Design </p>
-
 </div>
 
 ## 🤖 Technologies
@@ -45,5 +41,7 @@
     <img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
+<p>🔍 AI Agents • AWS • System Design </p>
 
 
