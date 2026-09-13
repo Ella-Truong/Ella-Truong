@@ -21,11 +21,7 @@
 
 <h4>🔍 Currently Exploring</h4>
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20Agents-FFC8DD?style=flat-round"/>
-  <img src="https://img.shields.io/badge/AWS-BDE0FE?style=flat-round"/>
-  <img src="https://img.shields.io/badge/System%20Design-D8E2DC?style=flat-round"/>
-</p>
+<p>AI Agents • AWS • System Design </p>
 
 </div>
 
